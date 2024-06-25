@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\iti courses\\courses\\asp.net\\Day05 mvc\\task5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25BBCF7F-404D-48C6-8CD9-2D1B6850F99E}|task5\\task5.csproj|d:\\iti courses\\courses\\asp.net\\day05 mvc\\task5\\task5\\views\\book\\read.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25BBCF7F-404D-48C6-8CD9-2D1B6850F99E}|task5\\task5.csproj|solutionrelative:task5\\views\\book\\read.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BBCF7F-404D-48C6-8CD9-2D1B6850F99E}|task5\\task5.csproj|d:\\iti courses\\courses\\asp.net\\day05 mvc\\task5\\task5\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25BBCF7F-404D-48C6-8CD9-2D1B6850F99E}|task5\\task5.csproj|solutionrelative:task5\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BBCF7F-404D-48C6-8CD9-2D1B6850F99E}|task5\\task5.csproj|d:\\iti courses\\courses\\asp.net\\day05 mvc\\task5\\task5\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25BBCF7F-404D-48C6-8CD9-2D1B6850F99E}|task5\\task5.csproj|solutionrelative:task5\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BBCF7F-404D-48C6-8CD9-2D1B6850F99E}|task5\\task5.csproj|d:\\iti courses\\courses\\asp.net\\day05 mvc\\task5\\task5\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25BBCF7F-404D-48C6-8CD9-2D1B6850F99E}|task5\\task5.csproj|solutionrelative:task5\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BBCF7F-404D-48C6-8CD9-2D1B6850F99E}|task5\\task5.csproj|d:\\iti courses\\courses\\asp.net\\day05 mvc\\task5\\task5\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25BBCF7F-404D-48C6-8CD9-2D1B6850F99E}|task5\\task5.csproj|solutionrelative:task5\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BBCF7F-404D-48C6-8CD9-2D1B6850F99E}|task5\\task5.csproj|d:\\iti courses\\courses\\asp.net\\day05 mvc\\task5\\task5\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25BBCF7F-404D-48C6-8CD9-2D1B6850F99E}|task5\\task5.csproj|solutionrelative:task5\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BBCF7F-404D-48C6-8CD9-2D1B6850F99E}|task5\\task5.csproj|d:\\iti courses\\courses\\asp.net\\day05 mvc\\task5\\task5\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25BBCF7F-404D-48C6-8CD9-2D1B6850F99E}|task5\\task5.csproj|solutionrelative:task5\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BBCF7F-404D-48C6-8CD9-2D1B6850F99E}|task5\\task5.csproj|d:\\iti courses\\courses\\asp.net\\day05 mvc\\task5\\task5\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25BBCF7F-404D-48C6-8CD9-2D1B6850F99E}|task5\\task5.csproj|solutionrelative:task5\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BBCF7F-404D-48C6-8CD9-2D1B6850F99E}|task5\\task5.csproj|d:\\iti courses\\courses\\asp.net\\day05 mvc\\task5\\task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25BBCF7F-404D-48C6-8CD9-2D1B6850F99E}|task5\\task5.csproj|solutionrelative:task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\iti courses\\courses\\asp.net\\Day05 mvc\\task5\\task5\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "task5\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\iti courses\\courses\\asp.net\\Day05 mvc\\task5\\task5\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "task5\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T00:18:53.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\iti courses\\courses\\asp.net\\Day05 mvc\\task5\\task5\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "task5\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\iti courses\\courses\\asp.net\\Day05 mvc\\task5\\task5\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "task5\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T00:15:18.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\iti courses\\courses\\asp.net\\Day05 mvc\\task5\\task5\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "task5\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\iti courses\\courses\\asp.net\\Day05 mvc\\task5\\task5\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "task5\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T00:15:13.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\iti courses\\courses\\asp.net\\Day05 mvc\\task5\\task5\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "task5\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\iti courses\\courses\\asp.net\\Day05 mvc\\task5\\task5\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "task5\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T00:15:08.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\iti courses\\courses\\asp.net\\Day05 mvc\\task5\\task5\\Program.cs",
+              "RelativeDocumentMoniker": "task5\\Program.cs",
+              "ToolTip": "D:\\iti courses\\courses\\asp.net\\Day05 mvc\\task5\\task5\\Program.cs",
+              "RelativeToolTip": "task5\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwB4AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T21:56:08.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\iti courses\\courses\\asp.net\\Day05 mvc\\task5\\task5\\Views\\Book\\Edit.cshtml",
+              "RelativeDocumentMoniker": "task5\\Views\\Book\\Edit.cshtml",
+              "ToolTip": "D:\\iti courses\\courses\\asp.net\\Day05 mvc\\task5\\task5\\Views\\Book\\Edit.cshtml",
+              "RelativeToolTip": "task5\\Views\\Book\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T21:45:26.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\iti courses\\courses\\asp.net\\Day05 mvc\\task5\\task5\\Views\\Book\\Create.cshtml",
+              "RelativeDocumentMoniker": "task5\\Views\\Book\\Create.cshtml",
+              "ToolTip": "D:\\iti courses\\courses\\asp.net\\Day05 mvc\\task5\\task5\\Views\\Book\\Create.cshtml",
+              "RelativeToolTip": "task5\\Views\\Book\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T20:33:10.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Read.cshtml",
+              "DocumentMoniker": "D:\\iti courses\\courses\\asp.net\\Day05 mvc\\task5\\task5\\Views\\Book\\Read.cshtml",
+              "RelativeDocumentMoniker": "task5\\Views\\Book\\Read.cshtml",
+              "ToolTip": "D:\\iti courses\\courses\\asp.net\\Day05 mvc\\task5\\task5\\Views\\Book\\Read.cshtml",
+              "RelativeToolTip": "task5\\Views\\Book\\Read.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T19:31:12.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\iti courses\\courses\\asp.net\\Day05 mvc\\task5\\task5\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "task5\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\iti courses\\courses\\asp.net\\Day05 mvc\\task5\\task5\\Controllers\\BookController.cs",
+              "RelativeToolTip": "task5\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T13:34:58.812Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+﻿@model List<Book>
+@{
+    //ViewData["Title"] = "Read";
+}
+
+<h1>@ViewData["Title"]</h1>
+<a asp-action="Create">create a new book from here </a>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">bookId</th>
+            <th scope="col">title</th>
+            <th scope="col">type</th>
+            <th scope="col">author name</th>
+            <th scope="col">operations</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            foreach (var book in Model)
+            {
+                <tr>
+                    <th scope="row">@book.BookId</th>
+                    <td>@book.Title</td>
+                    <td>@book.Type</td>
+                    <td>@book.Author.Name</td>
+                    <td>
+                        <a asp-route-BookId="@book.BookId" asp-action="Edit">edit</a>
+                        <a asp-route-BookId="@book.BookId"asp-action="Delete">delete</a>
+
+                    </td>
+
+                </tr>
+
+            }
+        }
+
+    </tbody>
+</table>
